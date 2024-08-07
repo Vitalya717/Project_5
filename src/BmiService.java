@@ -5,6 +5,4 @@ public class BmiService {
         int index = (int) (formula);
         return index;
     }
-
-
 }
